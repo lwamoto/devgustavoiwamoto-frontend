@@ -1,2 +1,2 @@
 # devgustavoiwamoto-frontend
-Projeto desenvolvido para estudo de front-end. Tecnologias: HTML, CSS e JavaScript. Objetivo: criar uma interface simples e funcional.
+Objetivo: aprimorar habilidades em desenvolvimento front-end, explorando estruturação de layouts e experiência do usuário.
